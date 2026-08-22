@@ -1,0 +1,57 @@
+polyglot/languages/javascript/Jakefile.txt linguist-detectable=true linguist-language=JavaScript
+polyglot/languages/4d/module.4dm linguist-detectable=true linguist-language=4D
+polyglot/languages/asl/module.asl linguist-detectable=true linguist-language=ASL
+polyglot/languages/angelscript/module.as linguist-detectable=true linguist-language=AngelScript
+polyglot/languages/autoit/module.au3 linguist-detectable=true linguist-language=AutoIt
+polyglot/languages/beef/module.bf linguist-detectable=true linguist-language=Beef
+polyglot/languages/bluespec-bh/module.bs linguist-detectable=true linguist-language=Bluespec BH
+polyglot/languages/c3/module.c3 linguist-detectable=true linguist-language=C3
+polyglot/languages/cairo-zero/module.cairo linguist-detectable=true linguist-language=Cairo Zero
+polyglot/languages/circom/module.circom linguist-detectable=true linguist-language=Circom
+polyglot/languages/coffeescript/Cakefile.txt linguist-detectable=true linguist-language=CoffeeScript
+polyglot/languages/cuda/module.cu linguist-detectable=true linguist-language=Cuda
+polyglot/languages/dart/module.dart linguist-detectable=true linguist-language=Dart
+polyglot/languages/ecl/module.ecl linguist-detectable=true linguist-language=ECL
+polyglot/languages/emacs-lisp/.abbrev_defs linguist-detectable=true linguist-language=Emacs Lisp
+polyglot/languages/fancy/Fakefile.txt linguist-detectable=true linguist-language=Fancy
+polyglot/languages/fortran-free-form/module.f90 linguist-detectable=true linguist-language=Fortran Free Form
+polyglot/languages/gdb/module.gdb linguist-detectable=true linguist-language=GDB
+polyglot/languages/gentoo-eclass/module.eclass linguist-detectable=true linguist-language=Gentoo Eclass
+polyglot/languages/grace/module.grace linguist-detectable=true linguist-language=Grace
+polyglot/languages/haskell/module.hs linguist-detectable=true linguist-language=Haskell
+polyglot/languages/ispc/module.ispc linguist-detectable=true linguist-language=ISPC
+polyglot/languages/isabelle/module.thy linguist-detectable=true linguist-language=Isabelle
+polyglot/languages/jasmin/module.j linguist-detectable=true linguist-language=Jasmin
+polyglot/languages/julia-repl/module.julia-repl linguist-detectable=true linguist-language=Julia REPL
+polyglot/languages/lfe/module.lfe linguist-detectable=true linguist-language=LFE
+polyglot/languages/leo/module.leo linguist-detectable=true linguist-language=Leo
+polyglot/languages/literate-haskell/module.lhs linguist-detectable=true linguist-language=Literate Haskell
+polyglot/languages/m/module.mumps linguist-detectable=true linguist-language=M
+polyglot/languages/makefile/BSDmakefile.txt linguist-detectable=true linguist-language=Makefile
+polyglot/languages/minizinc/module.mzn linguist-detectable=true linguist-language=MiniZinc
+polyglot/languages/moocode/module.moo linguist-detectable=true linguist-language=Moocode
+polyglot/languages/nsis/module.nsi linguist-detectable=true linguist-language=NSIS
+polyglot/languages/nickel/module.ncl linguist-detectable=true linguist-language=Nickel
+polyglot/languages/omnet-ned/module.ned linguist-detectable=true linguist-language=OMNeT++ NED
+polyglot/languages/open-policy-agent/module.rego linguist-detectable=true linguist-language=Open Policy Agent
+polyglot/languages/oz/module.oz linguist-detectable=true linguist-language=Oz
+polyglot/languages/parrot/module.parrot linguist-detectable=true linguist-language=Parrot
+polyglot/languages/pkl/module.pkl linguist-detectable=true linguist-language=Pkl
+polyglot/languages/processing/module.pde linguist-detectable=true linguist-language=Processing
+polyglot/languages/q/module.qs linguist-detectable=true linguist-language=Q#
+polyglot/languages/realbasic/module.rbbas linguist-detectable=true linguist-language=REALbasic
+polyglot/languages/reasonligo/module.religo linguist-detectable=true linguist-language=ReasonLIGO
+polyglot/languages/roc/module.roc linguist-detectable=true linguist-language=Roc
+polyglot/languages/sage/module.sage linguist-detectable=true linguist-language=Sage
+polyglot/languages/shellsession/module.sh-session linguist-detectable=true linguist-language=ShellSession
+polyglot/languages/smarty/module.tpl linguist-detectable=true linguist-language=Smarty
+polyglot/languages/supercollider/module.sc linguist-detectable=true linguist-language=SuperCollider
+polyglot/languages/txl/module.txl linguist-detectable=true linguist-language=TXL
+polyglot/languages/tolk/module.tolk linguist-detectable=true linguist-language=Tolk
+polyglot/languages/urweb/module.ur linguist-detectable=true linguist-language=UrWeb
+polyglot/languages/visual-basic-net/module.vb linguist-detectable=true linguist-language=Visual Basic .NET
+polyglot/languages/wolfram-language/module.mathematica linguist-detectable=true linguist-language=Wolfram Language
+polyglot/languages/xojo/module.xojo_code linguist-detectable=true linguist-language=Xojo
+polyglot/languages/zephir/module.zep linguist-detectable=true linguist-language=Zephir
+polyglot/languages/nesc/module.nc linguist-detectable=true linguist-language=nesC
+polyglot/majority/exhibit-registry.js linguist-detectable=true linguist-language=JavaScript
